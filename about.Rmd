@@ -1,0 +1,18 @@
+---
+title: "about"
+author: "Rodrigo Morais"
+date: "11/12/2020"
+output: html_document
+---
+
+MTCARS data set analysis: MPG and type of transmission Evaluate the relationship between consumption of the engine, and type of transmission
+
+The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-1974 models).
+
+<img src="mtcars.png" title="mtcars dataset" alt="mtcars dataset" width="50%" scale="0">
+
+### Usage
+
+<img src="help.png" title="help" alt="help" width="90%" scale="0">
+
+
